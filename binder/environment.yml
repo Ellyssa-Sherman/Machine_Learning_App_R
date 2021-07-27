@@ -11,6 +11,8 @@ dependencies:
   - r-reshape2
   - r-tidyverse
   - r-caret
+  - r-ellipse
+  - r-e1071
   - pip
   - pip:
      - pandas
