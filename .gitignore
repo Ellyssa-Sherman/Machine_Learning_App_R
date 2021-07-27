@@ -6,6 +6,10 @@
 .jupyter-server-log.txt
 .local/
 .profile
+.RData
+.Rhistory
+.rstudio/
+.subversion/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
